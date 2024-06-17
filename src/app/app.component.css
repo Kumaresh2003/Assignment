@@ -1,0 +1,69 @@
+
+ .logo{
+    width: 5rem;
+    margin-top: 10px;
+}
+.navbar{
+    display: inline-flex;
+    float: right;
+    margin-right: 200px;
+    font-size: 25px;
+    margin-top: 20px;
+   text-decoration: none;
+}
+li{
+    padding-left: 40px;
+    text-decoration: none;
+    list-style: none;
+}
+a{
+   
+    color: #110707;
+    text-decoration: none;
+}
+.btn-success{
+    margin-left: 88%;
+   margin-top: -100px;
+}
+.col-md-2{
+    width: 50%;
+    height: 420px;
+    background-color:rgb(15, 15, 224) ;
+}
+.banner{
+    height: 420px;
+}
+.h1-head{
+    font-size: 50px;
+    color: #fff;
+    margin-left: 40px;
+    margin-top: 70px;
+}
+.para{
+    font-size: 25px;
+    color: #fff;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.button{
+    border: 2px solid#fff;
+    height: 40px;
+    width: 250px;
+    border-radius: 20px;
+    text-align: center;
+    color:  rgb(61, 60, 60);
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.client{
+    height: 150px;
+    background-color: rgb(15, 15, 224);
+    margin-top: 20px;
+}
+.client-h1{
+    text-align: center;
+    color: #fff;
+    padding-top: 60px;
+   
+}
+
